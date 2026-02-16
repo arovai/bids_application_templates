@@ -1,0 +1,1 @@
+This repository contains templates to write BIDS applications, providing a consistent user experience across several tools.
